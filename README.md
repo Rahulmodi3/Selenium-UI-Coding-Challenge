@@ -15,9 +15,8 @@ https://www.youtube.com/watch?v=JsID_4If99Q&t=1s
 Open chrome/firefox browser
 Launch the URL : https://petdiseasealerts.org/forecast-map
 
-print total numbers of states
-
-click on any state and verify that state is opened 
+- print total numbers of states
+- click on any state and verify that state is opened 
 
 
 **Selenium UI Coding Challenge 2** : 
